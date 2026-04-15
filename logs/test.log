@@ -1,0 +1,3 @@
+2026-04-15 00:30:14,863 [INFO] pages.login_page - Opening login
+2026-04-15 00:30:20,090 [INFO] pages.login_page - Logging in with username: Admin
+2026-04-15 00:30:23,348 [INFO] pages.login_page - Error message displayed: Invalid credentials
